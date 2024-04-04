@@ -11,19 +11,10 @@ function About() {
       <div className="aboutBottom">
         <h1> ABOUT US</h1>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime
-          mollitia, molestiae quas vel sint commodi repudiandae consequuntur
-          voluptatum laborum numquam blanditiis harum quisquam eius sed odit
-          fugiat iusto fuga praesentium optio, eaque rerum! Provident similique
-          accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut
-          molestias architecto voluptate aliquam nihil, eveniet aliquid culpa
-          officia aut! Impedit sit sunt quaerat, odit, tenetur error, harum
-          nesciunt ipsum debitis quas aliquid. Reprehenderit, quia. Quo neque
-          error repudiandae fuga? Ipsa laudantium molestias eos sapiente
-          officiis modi at sunt excepturi expedita sint? Sed quibusdam
-          recusandae alias error harum maxime adipisci amet laborum.
-          Perspiciatis minima nesciunt dolorem! Officiis iure rerum voluptates a
-          cumque velit
+        "Step into our pizza paradise, where every slice tells a story of flavor and freshness. From our oven to your table, each pizza is crafted with passion and precision, using only the finest ingredients. Whether you're a fan of the classics or crave something adventurous, our menu offers a tantalizing array of options to satisfy every palate. Join us and savor the taste of tradition with a modern twist, creating moments that are as delightful as they are delicious."
+        But our love for pizza goes beyond the plate. We're passionate about creating a warm and welcoming atmosphere for our guests, where friends and family can gather to share great food and create lasting memories. Our attentive staff is here to ensure your experience is nothing short of fantastic, whether you're dining in or taking out.
+
+So come join us at our pizza haven, where every slice is a slice of happiness. We can't wait to serve you!"
         </p>
       </div>
     </div>
